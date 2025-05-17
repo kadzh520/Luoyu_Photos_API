@@ -3,7 +3,7 @@
      * A WTFPLv2 open source img API tools.
      *
      * @Name: Luoyu Photos API
-     * @Develop Time: 2023.10.5
+     * @Develop Time: 2024.8.14
      * @Version: 1.0.2
      * @Developer: Gaisoft & Riseforever
      * @Open Source: WTFPL v2
